@@ -1,2 +1,2 @@
 # mqforward-docker
-Dockerization of shire/mqforward
+Dockerization of shirou/mqforward
